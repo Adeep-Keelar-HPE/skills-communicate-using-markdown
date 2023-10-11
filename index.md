@@ -9,3 +9,8 @@
 ``` Golang
 fmt.Println("Best Golang Code in the business!");
 ```
+# Here's a todo List..?
+
+- [ ] Bully People.
+- [ ] Annoy People.
+- [X] Get Yelled At. 
