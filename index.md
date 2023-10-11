@@ -9,3 +9,8 @@
 ``` Golang
 fmt.Println("Worst Golang Code on Earth!");
 ```
+
+```
+ls
+List All the Contents of the Directory
+```
